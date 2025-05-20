@@ -1,5 +1,5 @@
     <!-- NAVBAR -->
-    <?php include "components/header.php"; ?>
+    <?php require "components/header.php"; ?>
 
     <!-- CONTENT -->
     <div style="background-color: #0f172a">
@@ -20,4 +20,4 @@
     </div>
 
     <!-- FOOTER -->
-    <?php include "components/footer.php" ?>
+    <?php require "components/footer.php" ?>
