@@ -40,7 +40,7 @@ if (isset($_SESSION["email"])) {
                     <ul class="navbar-nav">
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Admin
+                                User
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="profile.php">Profile</a></li>

@@ -1,5 +1,5 @@
-<?php 
-require "components/header.php"; 
+<?php
+require "components/header.php";
 
 // prevent search on url
 if (empty($_SESSION["email"])) {

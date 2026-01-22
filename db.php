@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "keyboard_shop";
+$db = "keybobo_shop";
 $charset = "utf8mb4";
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
